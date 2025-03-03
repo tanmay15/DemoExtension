@@ -3,6 +3,10 @@
     "{57a28c56-956c-4d92-b97f-e84fd2b21c18}": {
       "updates": [
          {
+          "version": "0.1",
+          "update_link": "https://tanmay15.github.io/DemoExtension/v1.xpi"
+        },
+         {
           "version": "0.2",
           "update_link": "https://tanmay15.github.io/DemoExtension/v2.xpi"
         }
