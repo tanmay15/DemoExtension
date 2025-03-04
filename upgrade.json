@@ -1,6 +1,6 @@
 {
   "addons": {
-    "{testingextension@thisworks.com}": {
+    "{selfsignedextension123@tesing.com}": {
       "updates": [
          {
           "version": "1.0",
