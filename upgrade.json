@@ -1,6 +1,6 @@
 {
   "addons": {
-    "testextension@yourdomain.com": {
+    "selfsignedextension1234@tesing.com": {
       "updates": [
         {
           "version": "2.0",
