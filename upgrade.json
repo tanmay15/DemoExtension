@@ -1,6 +1,6 @@
 {
   "addons": {
-    "{test@tanmay-address1234.com}": {
+    "{testingextension@thisworks.com}": {
       "updates": [
          {
           "version": "0.1",
@@ -8,8 +8,7 @@
         },
          {
           "version": "0.2",
-          "update_link": "https://tanmay15.github.io/DemoExtension/v2.xpi",
-           "update_hash":"55DBA0BF38F722E77D2F383BB3C3627410D25F0823F34CD4152A2F2CEA625213"
+          "update_link": "https://tanmay15.github.io/DemoExtension/v2.xpi"
         }
       ]
     }
