@@ -1,19 +1,10 @@
 {
   "addons": {
-    "{selfsignedextension1234@tesing.com}": {
+    "testextension@yourdomain.com": {
       "updates": [
-         {
-          "version": "0.1",
-          "update_link": "https://tanmay15.github.io/DemoExtension/ver01.xpi"
-        },
-         {
-          "version": "0.2",
-          "update_link": "https://tanmay15.github.io/DemoExtension/ver02.xpi"
-        },
         {
-          "version": "0.3",
-          "update_link": "https://tanmay15.github.io/DemoExtension/ver03.xpi",
-          "update_hash": "7EC7F02D6EDF79744023894FC33C159F0A786D843EF45B153636C22120ED04B1"
+          "version": "2.0",
+          "update_link": "https://tanmay15.github.io/DemoExtension/v102.xpi"
         }
       ]
     }
