@@ -9,6 +9,10 @@
          {
           "version": "1.1",
           "update_link": "https://tanmay15.github.io/DemoExtension/v02.xpi"
+        },
+        {
+          "version": "1.2",
+          "update_link": "https://tanmay15.github.io/DemoExtension/v03.xpi"
         }
       ]
     }
